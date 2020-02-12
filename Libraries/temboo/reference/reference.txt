@@ -1,3 +1,0 @@
-Documentation and reference can be found at: 
-
-http://temboo.com/library
